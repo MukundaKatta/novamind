@@ -86,6 +86,3 @@ src/
 └── lib/                      # AI providers, Supabase, Stripe
 ```
 
-## License
-
-MIT
